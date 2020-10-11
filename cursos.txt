@@ -1,0 +1,20 @@
+Curso de Fundamentos Matematicos para Inteligencia Artificial
+
+Curso de Algebra Lineal Aplicada  para Machine Learning
+
+Curso de Introducción a Machine  Learning
+
+Curso de Introducción al Pensamiento Probabilistico
+
+Curso de Programación Dinamica y Estocastica con Python
+
+Curso de Introducción al Pensamiento Computacional con python
+
+Curso de Machine Learning Aplicado con python
+
+Curso de Redes Neuronales en Keras y Scikit-Learn
+
+      --Curso de TensorFlow.js
+Curso de Deep Learning con Pytorch
+
+
